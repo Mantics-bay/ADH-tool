@@ -1,2 +1,2 @@
 # ADH-tool
-A tool to help debug for android
+- This is a tool to help debug for android
